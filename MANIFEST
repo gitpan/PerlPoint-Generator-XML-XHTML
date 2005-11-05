@@ -1,0 +1,9 @@
+
+Changelog
+MANIFEST
+Makefile.PL
+README
+
+lib/PerlPoint/Generator/XML/XHTML.pm
+lib/PerlPoint/Generator/XML/XHTML/Paged.pm
+
